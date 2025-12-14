@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "下剋上",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-14T12:43:25.576351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "下剋上 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_下剋上_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "下剋上",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン",
+      "has_synced": true,
+      "path": "select/02_下剋上_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "下剋上",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_下剋上_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "下剋上 - Retainer Supplanting His Lord (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_下剋上_-_Retainer_Supplanting_His_Lord_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "下剋上 (feat. 小豆沢こはね",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_下剋上_(feat._小豆沢こはね_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "下剋上",
+      "artist": "Misumi",
+      "has_synced": true,
+      "path": "select/06_下剋上_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "下剋上",
+      "artist": "森中花咲",
+      "has_synced": true,
+      "path": "select/07_下剋上_森中花咲.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "下剋上 (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 & 鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/08_下剋上_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&_鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "下剋上",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&Kagamine Rin",
+      "has_synced": true,
+      "path": "select/09_下剋上_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "下剋上 (instrumental)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/10_下剋上_(instrumental)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "下剋上 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_下剋上_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
